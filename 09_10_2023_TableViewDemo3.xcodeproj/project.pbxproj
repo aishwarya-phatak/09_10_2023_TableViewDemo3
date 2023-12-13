@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		685966CB2B29990C00C02333 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685966CA2B29990C00C02333 /* Student.swift */; };
 		68FD9D0E2B29828E00C431FA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68FD9D0D2B29828E00C431FA /* AppDelegate.swift */; };
 		68FD9D102B29828E00C431FA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68FD9D0F2B29828E00C431FA /* SceneDelegate.swift */; };
 		68FD9D122B29828E00C431FA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68FD9D112B29828E00C431FA /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		685966CA2B29990C00C02333 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 		68FD9D0A2B29828E00C431FA /* 09_10_2023_TableViewDemo3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 09_10_2023_TableViewDemo3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68FD9D0D2B29828E00C431FA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68FD9D0F2B29828E00C431FA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				68FD9D212B2982F900C431FA /* SecondViewController.swift */,
 				68FD9D232B29835900C431FA /* StudentTableViewCell.swift */,
 				68FD9D242B29835900C431FA /* StudentTableViewCell.xib */,
+				685966CA2B29990C00C02333 /* Student.swift */,
 			);
 			path = 09_10_2023_TableViewDemo3;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				68FD9D222B2982F900C431FA /* SecondViewController.swift in Sources */,
+				685966CB2B29990C00C02333 /* Student.swift in Sources */,
 				68FD9D252B29835900C431FA /* StudentTableViewCell.swift in Sources */,
 				68FD9D122B29828E00C431FA /* ViewController.swift in Sources */,
 				68FD9D0E2B29828E00C431FA /* AppDelegate.swift in Sources */,

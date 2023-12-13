@@ -11,6 +11,13 @@ class ViewController: UIViewController {
     @IBOutlet weak var studentTableView: UITableView!
     
     var studentNames = ["Gajanan","Harsh","Aditya","Smita","Komal"]
+    
+    // creating studentObjects and array of objects
+    /*var students : [Student] = [
+        Student(firstName: "Smita", lastName: "abc", rollNumber: 1),
+        Student(firstName: "Gajanan", lastName: "Bidwai", rollNumber: 2),
+        Student(firstName: "Rutik", lastName: "Thorat", rollNumber: 3)]*/
+    
     private let studentTableViewCellIdentifier = "StudentTableViewCell"
     private let secondViewControllerIdentifier = "SecondViewController"
     var studentTableViewCell : StudentTableViewCell?
